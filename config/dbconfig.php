@@ -1,8 +1,8 @@
 <?php
 
 define('HOST','localhost');
-define('USER','root');
-define('PW','yt,love,0912,bmd');
+define('USER','your_db_username');
+define('PW','your_db_password');
 define('DBNAME','rbac');
 
 $level1 = array( 1 => "美工",2=>"需求调研");
